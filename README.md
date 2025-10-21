@@ -1,61 +1,81 @@
-## Oi! Hello! Salut! ✨
-### Cloud Engineer | Data Engineer | International Speaker | GDG Organizer |
----
+<!-- Profile README for gustavribeiros -->
 
-I am a Cloud Data Engineer with over 10 years of experience, passionate about architecting and orchestrating intelligent and purposeful data solutions. My mission is to transform raw data into innovation and impact.
-
-- 🔭 **Currently:** I work with cutting-edge technologies such as GCP, Azure, AWS, Airflow, Terraform, and BigQuery.
-- 🚀 **My speciality:** Building robust pipelines, multicloud architectures, and efficient automations for industries such as automotive, finance, and healthcare.
-- 💡 **Beyond code:** I am an active organiser in the Google Developer Group (GDG) community, where I seek to democratise technological knowledge through events and mentoring.
-
- 
-I believe that technology should be a bridge, not a barrier. My goal is to connect people, data, and innovation.
-
-
----
-
-### 🛠️ Tech Stack & Tools
+<h1 align="center">Hi there, I'm Gustavo Ribeiro! 👋</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,ansible,git,github,githubactions,python,fediverse,flask,go,openshift,pytorch,redhat,tensorflow,sklearn,fastapi" />
+  <b>Cloud Data Engineer • Software Engineer • Machine Learning Engineer • Cloud Engineer • GDG Organizer</b>
+</p>
+
+<p align="center">
+  <em>I transform raw data into innovation and impact by architecting and orchestrating intelligent, purposeful data solutions.</em>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Cloud Data Engineer with **10+ years of experience** building robust data solutions.
+- 🔭 Currently working with **GCP, Azure, AWS, Airflow, Terraform, and BigQuery**.
+- 🏗️ Specialized in **pipelines, multicloud architectures**, and **automation** for automotive, finance, and healthcare industries.
+- 💡 Active **Google Developer Groups (GDG) Organizer**—I love democratizing tech knowledge through events and mentoring.
+- 🌉 I believe technology should be a bridge, not a barrier: connecting people, data, and innovation.
+
+---
+
+## 🛠️ Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-0A8F08?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FinOps-FFB300?style=flat"/>
+</p>
+
+---
+
+## 🌟 Notable Projects
+
+- [lab-cloud-cost-agents](https://github.com/gustavribeiros/lab-cloud-cost-agents): Uso de Generative AI para criar sistema de análise de custos na nuvem em multi-cloud (Google Cloud e AWS)
+- [cloud-cost-analyzer-mcp](https://github.com/gustavribeiros/cloud-cost-analyzer-mcp): Sistema para análise de custos de cloud em múltiplos provedores.
+- [ia-agentes-diario-oficial-uniao](https://github.com/gustavribeiros/ia-agentes-diario-oficial-uniao): Agentes de IA para automação de processos para obter dados públicos do Diário Oficial da União do Brasil.
+- [log-generator-covid-vaccines-aws-kinesis](https://github.com/gustavribeiros/log-generator-covid-vaccines-aws-kinesis/tree/master): Acompanhamento das Vacinas de COVID-19 pelo mundo (em 2020).
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavribeiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gustavribeiros">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://gustavosantosio.com/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/gustavosantosio">
+    <img src="https://img.shields.io/badge/Google_Developer_Profile-34A853?style=flat&logo=google&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📫 Let's connect!
+## 💬 Fun Fact
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. I can speak 3 languages (portuguese, my maternal language, English and French, so don't be shy!). Let's chat!
+When I'm not coding or organizing tech events, you can find me exploring new coffee spots, mentoring, or tinkering with the latest in AI and cloud!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavribeiro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavribeiro"/></a>
-<a href="mailto:gustavribeirods@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustavribeirods"/></a>
-<a href="https://gustavosantosio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-464646?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gustavosantosio"/></a>
- <a href="https://linkedin.com/in/gustavribeiro"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://learn.microsoft.com/pt-br/users/gustavoribeiro/"><img align="center" src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white">
-</p>
- <div style="display:inline_block">      
-      <a href="https://music.apple.com/profile/gustavribeiro"><img align="center" src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
-      <a href="https://open.spotify.com/user/0mbt650t2c8rfatf8p9a7vqrz?si=cO9U7QtlR4i8MGcyKE5jnQ"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-      <a href="https://www.last.fm/pt/user/gustavo_ribeiro"><img align="center" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"> <br>
-</div>
-<div style="display:inline_block">
-      <br>      
-     <br>
-</div>
-       
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gustavribeiros&theme=holi&count_private=false&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavribeiros&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
+---
 
-
-  ### 📱 Contact me at
-<div style="display: inline_block">     
-     <a href="mailto:progustavosantos@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      <br>
-
-  
-  
-  <!--<a href="[https://www.linkedin.com/in/gustavribeiro/](https://gustavosantosio.com/)"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">-->
- 
-</b>
+<p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
