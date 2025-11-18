@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" >
-  <em>"Turning ideas into clean, maintainable systems — one reliable pipeline at a time."</em>
+  <em>"Turning ideas into clean, maintainable systems — one reliable pipeline at a time." 💡</em>
 </p>
 
 ---
@@ -21,13 +21,12 @@
 
 <br>
 
-## 🚀 About Me
+## 🎯 About me
 
-- 👨‍💻 Cloud Data Engineer with **10+ years of experience** building robust data solutions.
-- 🔭 Currently working with **GCP, Azure, AWS, Airflow, Terraform, and BigQuery**.
-- 🏗️ Specialized in **pipelines, multicloud architectures**, and **automation** for automotive, finance, and healthcare industries.
-- 💡 Active **Google Developer Groups (GDG) Organizer**—I love democratizing tech knowledge through events and mentoring.
-- 🌉 I believe technology should be a bridge, not a barrier: connecting people, data, and innovation.
+I'm a Senior Data & Cloud Engineer, my core strengths include advanced SQL, Spark, Python, and multi-cloud architecture (Google Cloud, AWS, Azure, OCI, IBM Cloud). I specialize in orchestrating data lakes and lakehouses (medallion model), data modeling, and building automated batch and streaming pipelines (ETL/ELT, Delta/Delta Lake, Lambda/Delta architectures). I have deep experience in MLOps and applied machine learning, including work with LLMs and managed cloud ML platforms (Vertex AI, Claude, Gemini). I focus on reproducible model development, deployment, and observability.
+
+Industry experience includes healthcare and collaborations with global teams across the USA and Europe at companies such as CI&T, Pluxee, C6 Bank, Ford, and Cognizant. I lead community initiatives as a GDG Organizer for Google Developer Groups (representing Google Cloud in Brazil), participate in Google Cloud AI Trusted Tester programs, and speak at international events (Developer's Conference, Campus Party, Build with AI, Google DevFest, Google I/O Extended, GDG Summit LATAM).
+
 
 
 <br>
@@ -41,7 +40,7 @@
 - [log-generator-covid-vaccines-aws-kinesis](https://github.com/gustavribeiros/log-generator-covid-vaccines-aws-kinesis/tree/master): Acompanhamento das Vacinas de COVID-19 pelo mundo (em 2020).
 <br>
 
-## Some stats!
+## 🎲 Some stats!
 <div align='center' height=200>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavozsh&theme=dark)](https://github.com/gustavozsh)  
