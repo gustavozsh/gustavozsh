@@ -78,4 +78,21 @@ When I'm not coding or organizing tech events, you can find me exploring new cof
 
 ---
 
+## 📝 Markdown Tips
+
+### Como escrever em itálico em Markdown? (How to write in italic in Markdown?)
+
+Existem duas formas de escrever texto em itálico no Markdown:
+
+1. **Usando asteriscos:** `*texto em itálico*` → *texto em itálico*
+2. **Usando underscores:** `_texto em itálico_` → _texto em itálico_
+
+**Exemplos:**
+- `*Este texto está em itálico*` → *Este texto está em itálico*
+- `_Este texto também está em itálico_` → _Este texto também está em itálico_
+
+**Dica:** Para **negrito**, use dois asteriscos ou underscores: `**negrito**` ou `__negrito__`
+
+---
+
 <p align="center"><em>Let's connect, collaborate, and build the future of data together!</em></p>
